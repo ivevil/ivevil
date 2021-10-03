@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @ivevil
 - 👀 I’m interested in diving deep into programming languages structure.
-- 🌱 I’m currently learning React.
-- 💞️ I’m looking to collaborate on PHP and Laravel projects.
+- 💞️ I’m looking to collaborate on PHP, Laravel and/or React projects.
 - 📫 Currently based in Düsseldorf, Germany. 
